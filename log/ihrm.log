@@ -1,0 +1,13 @@
+2020-05-21 11:48:06,581 INFO [root] [__init__.py(<module>:5)] - 测试日志是否打印
+2020-05-21 11:48:06,772 INFO [root] [test_ihrm_login_params.py(test_login:40)] - 登录的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '6b55eea0-7ce9-483a-92b4-a5ee6f16f4db'}
+2020-05-21 11:48:06,862 INFO [root] [test_ihrm_login_params.py(test_login:40)] - 登录的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 11:48:06,939 INFO [root] [test_ihrm_login_params.py(test_login:40)] - 登录的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 11:48:07,024 INFO [root] [test_ihrm_login_params.py(test_login:40)] - 登录的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '1497f818-f13d-4cb8-8e72-bd867d3160ae'}
+2020-05-21 11:48:07,128 INFO [root] [test_ihrm_login_params.py(test_login:40)] - 登录的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 11:48:07,217 INFO [root] [test_ihrm_login_params.py(test_login:40)] - 登录的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 11:48:07,323 INFO [root] [test_ihrm_login_params.py(test_login:40)] - 登录的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'd9d070b0-25d0-4150-9c58-de7e1423dc59'}
+2020-05-21 11:48:07,418 INFO [root] [test_ihrm_login_params.py(test_login:40)] - 登录的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 11:48:07,507 INFO [root] [test_ihrm_login_params.py(test_login:40)] - 登录的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 11:48:07,623 INFO [root] [test_ihrm_login_params.py(test_login:40)] - 登录的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 11:48:07,702 INFO [root] [test_ihrm_login_params.py(test_login:40)] - 登录的结果为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-21 11:48:07,788 INFO [root] [test_ihrm_login_params.py(test_login:40)] - 登录的结果为:{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}

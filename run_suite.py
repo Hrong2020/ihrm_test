@@ -21,3 +21,6 @@ with open(report_file, mode='wb') as f:
     import HTMLTestRunner_PY3
     runner = HTMLTestRunner_PY3.HTMLTestRunner(f, verbosity=2, description="员工管理系统测试报告,很美观", title="IHRM")
     runner.run(suite)
+
+
+print("测试巡视")
